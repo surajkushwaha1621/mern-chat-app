@@ -53,6 +53,5 @@ Start the Client
 ```
 
   
-# Features
 
 
